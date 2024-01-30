@@ -1,0 +1,9 @@
+%YAML 1.2
+---
+lists:
+  - name: EasyList - Russian
+    link: https://raw.githubusercontent.com/hectorm/hmirror/master/data/easylist-rus/list.txt
+    logo: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Adblock_Plus_2014_Logo.svg/640px-Adblock_Plus_2014_Logo.svg.png
+  - name: uBlock
+    link: https://raw.githubusercontent.com/hectorm/hmirror/master/data/ublock/list.txt
+    logo: https://raw.githubusercontent.com/gorhill/uBlock/master/src/img/ublock.svg

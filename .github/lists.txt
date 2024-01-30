@@ -1,2 +1,0 @@
-https://raw.githubusercontent.com/hectorm/hmirror/master/data/easylist-rus/list.txt
-https://raw.githubusercontent.com/hectorm/hmirror/master/data/ublock/list.txt
