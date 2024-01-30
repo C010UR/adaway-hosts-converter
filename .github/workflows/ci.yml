@@ -1,0 +1,29 @@
+name: CI
+
+on:
+  schedule:
+    - cron:  '30 5 * * *'
+
+jobs:
+  build:
+    name: Build Hosts from the urls
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Build Hosts
+        run: ./.github/process.bash ./.github/lists.txt
+
+      - name: Commit changes
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "[Github Actions] Build the Hosts"
+          commit_user_name: Buinouski Mikhail
+          commit_user_email: buinouskiymikhail@gmail.com
+          commit_author: Buinouski Mikhail <buinouskiymikhail@gmail.com>
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
