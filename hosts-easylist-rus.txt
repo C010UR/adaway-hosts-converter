@@ -79,7 +79,6 @@
 0.0.0.0 adsellers.net
 0.0.0.0 adsmeda.com
 0.0.0.0 adsorg.com
-0.0.0.0 adsplius.lt
 0.0.0.0 adstock.ru
 0.0.0.0 adsyst.ru
 0.0.0.0 adtime.ru
@@ -158,8 +157,6 @@
 0.0.0.0 b.acpr.su
 0.0.0.0 b.candy.vl.ru
 0.0.0.0 b.digital-tv.com.ua
-0.0.0.0 b.inbox.lv
-0.0.0.0 b.itvnet.lv
 0.0.0.0 b.madplace99.com
 0.0.0.0 b.netall.ru
 0.0.0.0 b.nwave.de
@@ -354,7 +351,6 @@
 0.0.0.0 cllckdomain.com
 0.0.0.0 clme.biz
 0.0.0.0 clme.net
-0.0.0.0 clo.lv
 0.0.0.0 cloakac.com
 0.0.0.0 clunder.net
 0.0.0.0 cnb.cnews.ru
@@ -1315,7 +1311,6 @@
 0.0.0.0 proravnovesie.ru
 0.0.0.0 proteaser.com
 0.0.0.0 protrafv2.com
-0.0.0.0 proxy.dlf.lt
 0.0.0.0 prozapas.dn.ua
 0.0.0.0 psma01.com
 0.0.0.0 psma02.com
