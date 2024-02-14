@@ -417,7 +417,6 @@
 0.0.0.0 d1uvhm532ipx9t.cloudfront.net
 0.0.0.0 d1zfhhmz4n1jvq.cloudfront.net
 0.0.0.0 d1zk0i9yiryb1j.cloudfront.net
-0.0.0.0 d24g87zbxr4yiz.cloudfront.net
 0.0.0.0 d24rtvkqjwgutp.cloudfront.net
 0.0.0.0 d27jk9dqha8met.cloudfront.net
 0.0.0.0 d2i5pngfrazn5t.cloudfront.net
@@ -431,7 +430,6 @@
 0.0.0.0 d3p2b5qewrnsyv.cloudfront.net
 0.0.0.0 d3pb9zw46rm6zr.cloudfront.net
 0.0.0.0 d7921da5d4c24.com
-0.0.0.0 daccroi.com
 0.0.0.0 daccrois.com
 0.0.0.0 daccroit.com
 0.0.0.0 daffecte.com
@@ -1028,7 +1026,6 @@
 0.0.0.0 media-rich.ru
 0.0.0.0 media-rotation.net
 0.0.0.0 media-rotator.net
-0.0.0.0 media.adrcdn.com
 0.0.0.0 mediacot.com
 0.0.0.0 mediadar.ru
 0.0.0.0 mediaip.ru
@@ -1400,7 +1397,6 @@
 0.0.0.0 rotationmessage.net
 0.0.0.0 rouhb.com
 0.0.0.0 rpsehc.ru
-0.0.0.0 rtbinternet.com
 0.0.0.0 rtbtraf.com
 0.0.0.0 rtbweb.com
 0.0.0.0 rtdns.ru
@@ -1460,7 +1456,6 @@
 0.0.0.0 servized.com
 0.0.0.0 sexshop4ik.ru
 0.0.0.0 sexshop4ik.ru.swtest.ru
-0.0.0.0 sexualpitfall.com
 0.0.0.0 sexvrusko.org
 0.0.0.0 sheat.ru
 0.0.0.0 shigopo.ru
@@ -1481,7 +1476,6 @@
 0.0.0.0 slartibartfast.ru
 0.0.0.0 sleepac.com
 0.0.0.0 slivz.com
-0.0.0.0 slopeac.com
 0.0.0.0 slot-portal.com
 0.0.0.0 slotoportal.com
 0.0.0.0 smartbucks.ru
@@ -1737,7 +1731,6 @@
 0.0.0.0 vakataro.com
 0.0.0.0 vareza.net
 0.0.0.0 various1down.biz
-0.0.0.0 vast.alloha.tv
 0.0.0.0 vast.bazonserver.site
 0.0.0.0 vast.videocdn.tv
 0.0.0.0 vatizon.com
