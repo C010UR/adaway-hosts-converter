@@ -28,7 +28,6 @@
 0.0.0.0 8nr2bisa.ru
 0.0.0.0 a-love.nninfo.ru
 0.0.0.0 a.fobos.tv
-0.0.0.0 a.meteonova.ru
 0.0.0.0 a.multik-online.net
 0.0.0.0 a.velvet.by
 0.0.0.0 abourselfi.com
@@ -152,7 +151,6 @@
 0.0.0.0 avtozapchastivazlanos.ru
 0.0.0.0 az708531.vo.msecnd.net
 0.0.0.0 azartaffiliates.com
-0.0.0.0 azartplay.casino
 0.0.0.0 b-one.com.ua
 0.0.0.0 b.acpr.su
 0.0.0.0 b.candy.vl.ru
@@ -239,7 +237,6 @@
 0.0.0.0 blackads.ru
 0.0.0.0 blendac.com
 0.0.0.0 blessdi.com
-0.0.0.0 blogiblogi.com
 0.0.0.0 blogifeed.com
 0.0.0.0 blogistars.com
 0.0.0.0 blogistarts.com
@@ -267,11 +264,9 @@
 0.0.0.0 boolff.com
 0.0.0.0 br.kcdn.kz
 0.0.0.0 brandarium.ru
-0.0.0.0 breakingdigest.com
 0.0.0.0 breedac.com
 0.0.0.0 breeffnet.com
 0.0.0.0 brndrm.com
-0.0.0.0 browserextensions.net
 0.0.0.0 brvyjcu0ablfhwx.ru
 0.0.0.0 bs.mybb.ru
 0.0.0.0 bs.orsk.ru
@@ -332,7 +327,6 @@
 0.0.0.0 citaire.com
 0.0.0.0 cl.ekzo.org
 0.0.0.0 clangere.com
-0.0.0.0 clbvpurple.com
 0.0.0.0 clctraffic.com
 0.0.0.0 click.readme.ru
 0.0.0.0 click4wm.ru
@@ -529,7 +523,6 @@
 0.0.0.0 emierete.com
 0.0.0.0 emisses.com
 0.0.0.0 emnodar.ru
-0.0.0.0 endocri.ru
 0.0.0.0 enfreine.com
 0.0.0.0 engine-bk.ligastavok.ru
 0.0.0.0 engine-pmbk.ligastavok.ru
@@ -552,7 +545,6 @@
 0.0.0.0 etranslater1.com
 0.0.0.0 evendividualita.com
 0.0.0.0 everinform.com
-0.0.0.0 eversmi.com
 0.0.0.0 evsembu.com
 0.0.0.0 ex.infox.sg
 0.0.0.0 excalatom.com
@@ -585,6 +577,7 @@
 0.0.0.0 films.ws
 0.0.0.0 fin-vector.ru
 0.0.0.0 finbs.ru
+0.0.0.0 find-it.pro
 0.0.0.0 findfor.net
 0.0.0.0 findpre.net
 0.0.0.0 finsotins.com
@@ -1029,7 +1022,6 @@
 0.0.0.0 mediacot.com
 0.0.0.0 mediadar.ru
 0.0.0.0 mediaip.ru
-0.0.0.0 mediapress.xyz
 0.0.0.0 mediarealtor.ru
 0.0.0.0 mediarich-code.ru
 0.0.0.0 mediarich.cc
@@ -1047,8 +1039,6 @@
 0.0.0.0 medigaly.com
 0.0.0.0 medinses.ru
 0.0.0.0 medpiar.ru
-0.0.0.0 mega-game.org
-0.0.0.0 mega-pics-money.ru
 0.0.0.0 megaban.com.ua
 0.0.0.0 megactds6.net
 0.0.0.0 megartb.com
@@ -1153,7 +1143,6 @@
 0.0.0.0 news.movieworld.kz
 0.0.0.0 news.soptv.ws
 0.0.0.0 newseer.net
-0.0.0.0 newsles.ru
 0.0.0.0 newsma.ru
 0.0.0.0 newsmarket.pixarea.ru
 0.0.0.0 newsteaser.ru
@@ -1279,7 +1268,6 @@
 0.0.0.0 pop.turnik.su
 0.0.0.0 popup.relinka.net
 0.0.0.0 portal-info.org
-0.0.0.0 portal-peoples.com
 0.0.0.0 poulop.com
 0.0.0.0 povtotse.ru
 0.0.0.0 pr-inc.biz
@@ -1339,7 +1327,6 @@
 0.0.0.0 rcforme.biz
 0.0.0.0 rd09ettvoemc.pro
 0.0.0.0 reacten.com
-0.0.0.0 readtoday.ru
 0.0.0.0 readvesti.ru
 0.0.0.0 ready4win.com
 0.0.0.0 real-blog.name
@@ -1366,7 +1353,6 @@
 0.0.0.0 reklama-cluster.tut.by
 0.0.0.0 reklamadarom.com
 0.0.0.0 reklamist.ru
-0.0.0.0 rendersaveron.com
 0.0.0.0 reserches.com
 0.0.0.0 retagapp.com
 0.0.0.0 returso.com
@@ -1404,8 +1390,6 @@
 0.0.0.0 rtmain.com
 0.0.0.0 ruad.net
 0.0.0.0 ruigra.com
-0.0.0.0 runews-time.xyz
-0.0.0.0 runewslenta.com
 0.0.0.0 rus-news.biz
 0.0.0.0 rus-news.club
 0.0.0.0 rusnews.biz
