@@ -898,7 +898,6 @@
 0.0.0.0 lcads.ru
 0.0.0.0 leashac.com
 0.0.0.0 leforma.com
-0.0.0.0 lentapronews.com
 0.0.0.0 lepubs.com
 0.0.0.0 lequ6.ru
 0.0.0.0 leruanmarket.ru
@@ -1842,7 +1841,6 @@
 0.0.0.0 xb8nuy.ru
 0.0.0.0 xeclick.com
 0.0.0.0 xewoza.com
-0.0.0.0 xf.xyu.tv
 0.0.0.0 xfnvb.biz
 0.0.0.0 xiss.ru
 0.0.0.0 xiuuh.com
