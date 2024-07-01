@@ -23,6 +23,7 @@
 0.0.0.0 clipbongda.info
 0.0.0.0 clivads.com
 0.0.0.0 clprr.com
+0.0.0.0 coertiest.click
 0.0.0.0 crentgate.com
 0.0.0.0 cviezjsg.com
 0.0.0.0 d13jhr4vol1304.cloudfront.net

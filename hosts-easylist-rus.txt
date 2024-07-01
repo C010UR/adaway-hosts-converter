@@ -1,6 +1,7 @@
 0.0.0.0 1.miniporn.ru
 0.0.0.0 1000zakazov.ru
 0.0.0.0 1k-shop.ru
+0.0.0.0 1l-hit.mail.ru
 0.0.0.0 1under.ru
 0.0.0.0 1xikk.world
 0.0.0.0 1xool.world
@@ -1018,6 +1019,7 @@
 0.0.0.0 media-rich.ru
 0.0.0.0 media-rotation.net
 0.0.0.0 media-rotator.net
+0.0.0.0 media-stat.mail.ru
 0.0.0.0 mediacot.com
 0.0.0.0 mediadar.ru
 0.0.0.0 mediaip.ru
@@ -1315,6 +1317,7 @@
 0.0.0.0 qrstes.com
 0.0.0.0 qwerty.arenda263.ru
 0.0.0.0 r.qip.ru
+0.0.0.0 radar.imgsmail.ru
 0.0.0.0 randoom.ru
 0.0.0.0 rarenok.biz
 0.0.0.0 ravishstroke.in
@@ -1805,6 +1808,7 @@
 0.0.0.0 wells.murmann.ru
 0.0.0.0 weropiy.com
 0.0.0.0 wetpussyhd.com
+0.0.0.0 winline.rambler.ru
 0.0.0.0 wisertb.com
 0.0.0.0 wizzzards.com
 0.0.0.0 wlboon.com
@@ -1846,6 +1850,7 @@
 0.0.0.0 xiuuh.com
 0.0.0.0 xn----ctblib1bagjll.xn--p1ai
 0.0.0.0 xooplo.com
+0.0.0.0 xray.mail.ru
 0.0.0.0 xstats.in
 0.0.0.0 xuuclck.com
 0.0.0.0 xxuhter.ru
