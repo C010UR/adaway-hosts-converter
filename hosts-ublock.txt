@@ -25,6 +25,7 @@
 0.0.0.0 clprr.com
 0.0.0.0 coertiest.click
 0.0.0.0 crentgate.com
+0.0.0.0 criticismdramavein.com
 0.0.0.0 cviezjsg.com
 0.0.0.0 d13jhr4vol1304.cloudfront.net
 0.0.0.0 d19f0dp1dh77jq.cloudfront.net
@@ -94,7 +95,6 @@
 0.0.0.0 psaiceex.net
 0.0.0.0 pvrtx.net
 0.0.0.0 releinemaoff.pro
-0.0.0.0 rencontres-coquines.jacquieetmichel.net
 0.0.0.0 retdaz.fun
 0.0.0.0 rfsjuxlip.com
 0.0.0.0 sersh.com
