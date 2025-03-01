@@ -7,6 +7,7 @@
 0.0.0.0 apptospace.com
 0.0.0.0 bitupsss.com
 0.0.0.0 bloxplay.com
+0.0.0.0 boyfriendmeaningless.com
 0.0.0.0 brightadnetwork.com
 0.0.0.0 catsnbootsncats2020.com
 0.0.0.0 cfgr2.com
@@ -35,6 +36,7 @@
 0.0.0.0 findmyheadache.com
 0.0.0.0 forwardrb.bid
 0.0.0.0 get-link.xyz
+0.0.0.0 ghastlyejection.com
 0.0.0.0 gkxyifeulfpb.com
 0.0.0.0 gtbtnrpzz.com
 0.0.0.0 herdethi.net
@@ -48,6 +50,7 @@
 0.0.0.0 kataprius.com
 0.0.0.0 kogaqmlci.com
 0.0.0.0 kooolboomin.com
+0.0.0.0 kuvirixa.com
 0.0.0.0 leadnote.me
 0.0.0.0 lengejoberdak.pro
 0.0.0.0 mousheen.net
@@ -77,7 +80,9 @@
 0.0.0.0 vehavings.biz
 0.0.0.0 vuwomoby.pro
 0.0.0.0 willalland.info
+0.0.0.0 winfr-wtc.com
 0.0.0.0 wontent.powvideo.net
 0.0.0.0 yollamedia.com
+0.0.0.0 zonedummy.com
 0.0.0.0 zontent.powvideo.net
 0.0.0.0 zwuucugezzjhhi.com

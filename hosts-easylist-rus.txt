@@ -119,9 +119,15 @@
 0.0.0.0 amuseer.com
 0.0.0.0 an.media-active.ru
 0.0.0.0 analytic.press
+0.0.0.0 anidublink.ru
+0.0.0.0 anilibriaz.ru
+0.0.0.0 animebest.zone
+0.0.0.0 animegofan.ru
+0.0.0.0 animesvost.ru
 0.0.0.0 annienne.com
 0.0.0.0 ant-top.ru
 0.0.0.0 anti-gemorroy.com
+0.0.0.0 antiblockseries.ru
 0.0.0.0 ap.delfi.ee
 0.0.0.0 api-keks.com
 0.0.0.0 api-marketolog.mts.ru
@@ -405,6 +411,7 @@
 0.0.0.0 cyhtr.com
 0.0.0.0 cykahax.net
 0.0.0.0 d.igra-prestoloff.cx
+0.0.0.0 d0.mradx.net
 0.0.0.0 d19lkhros9wke.cloudfront.net
 0.0.0.0 d1af165twk0zgn.cloudfront.net
 0.0.0.0 d1f5rbi95y1icu.cloudfront.net
@@ -977,7 +984,6 @@
 0.0.0.0 luredac.com
 0.0.0.0 lux-bn.com.ua
 0.0.0.0 luxcash.ru
-0.0.0.0 luxcdn.com
 0.0.0.0 luxtraffic.ru
 0.0.0.0 luxurycash.net
 0.0.0.0 lvkwz.com
@@ -1317,6 +1323,8 @@
 0.0.0.0 qrstes.com
 0.0.0.0 qwerty.arenda263.ru
 0.0.0.0 r.qip.ru
+0.0.0.0 r0.mail.ru
+0.0.0.0 r0.mradx.net
 0.0.0.0 radar.imgsmail.ru
 0.0.0.0 randoom.ru
 0.0.0.0 rarenok.biz
@@ -1433,6 +1441,7 @@
 0.0.0.0 seed.by
 0.0.0.0 seligers.ru
 0.0.0.0 senkevich-vk.net
+0.0.0.0 senpaianime.ru
 0.0.0.0 serdce-volgi.ru
 0.0.0.0 sergh34ds.com
 0.0.0.0 serveac.com
@@ -1866,6 +1875,7 @@
 0.0.0.0 youhave.mobi
 0.0.0.0 ytsmoda3jcne.ru
 0.0.0.0 yulinata.ru
+0.0.0.0 yummyanimez.ru
 0.0.0.0 yyredir.com
 0.0.0.0 zaovrazhnoe.ru
 0.0.0.0 zarabotki.ru
