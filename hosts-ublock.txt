@@ -5,7 +5,6 @@
 0.0.0.0 adn.porndig.com
 0.0.0.0 adsloboclick.com
 0.0.0.0 apptospace.com
-0.0.0.0 bitupsss.com
 0.0.0.0 bloxplay.com
 0.0.0.0 boyfriendmeaningless.com
 0.0.0.0 brightadnetwork.com
@@ -37,7 +36,6 @@
 0.0.0.0 forwardrb.bid
 0.0.0.0 get-link.xyz
 0.0.0.0 ghastlyejection.com
-0.0.0.0 gkxyifeulfpb.com
 0.0.0.0 gtbtnrpzz.com
 0.0.0.0 herdethi.net
 0.0.0.0 hologydeno.info
@@ -53,6 +51,7 @@
 0.0.0.0 kuvirixa.com
 0.0.0.0 leadnote.me
 0.0.0.0 lengejoberdak.pro
+0.0.0.0 moorsmerops.top
 0.0.0.0 mousheen.net
 0.0.0.0 n1g459ky7y.com
 0.0.0.0 nvxcvyfedg.com
@@ -63,7 +62,6 @@
 0.0.0.0 padsims.com
 0.0.0.0 padspms.com
 0.0.0.0 perfotrack.com
-0.0.0.0 poptival.com
 0.0.0.0 poweredbyliquidfire.mobi
 0.0.0.0 protectsurf-a.akamaihd.net
 0.0.0.0 psaiceex.net
