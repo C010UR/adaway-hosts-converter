@@ -21,8 +21,8 @@
 0.0.0.0 d1k3dpebxhgqjc.cloudfront.net
 0.0.0.0 d1pozdfelzfhyt.cloudfront.net
 0.0.0.0 d2wpknqle9nuv8.cloudfront.net
-0.0.0.0 d3d52lhoy0sh2w.cloudfront.net
 0.0.0.0 d3t9nyds4ufoqz.cloudfront.net
+0.0.0.0 damoh.welect.de
 0.0.0.0 ddacn6pr5v0tl.cloudfront.net
 0.0.0.0 disproveknob.com
 0.0.0.0 doathair.com
@@ -44,7 +44,6 @@
 0.0.0.0 kataprius.com
 0.0.0.0 kogaqmlci.com
 0.0.0.0 kuvirixa.com
-0.0.0.0 leadnote.me
 0.0.0.0 lengejoberdak.pro
 0.0.0.0 moorsmerops.top
 0.0.0.0 mousheen.net
