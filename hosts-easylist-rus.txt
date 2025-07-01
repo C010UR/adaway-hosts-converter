@@ -454,7 +454,6 @@
 0.0.0.0 designedy.com
 0.0.0.0 detaires.com
 0.0.0.0 detdove.ru
-0.0.0.0 dev4enki.com
 0.0.0.0 devaxi.org
 0.0.0.0 devilclicks.com
 0.0.0.0 devki21.ru
