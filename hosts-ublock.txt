@@ -4,7 +4,6 @@
 0.0.0.0 adblockenterpriseedition.com
 0.0.0.0 adn.porndig.com
 0.0.0.0 adsloboclick.com
-0.0.0.0 apptospace.com
 0.0.0.0 bloxplay.com
 0.0.0.0 boyfriendmeaningless.com
 0.0.0.0 brightadnetwork.com
@@ -13,7 +12,6 @@
 0.0.0.0 clipbongda.info
 0.0.0.0 clivads.com
 0.0.0.0 clprr.com
-0.0.0.0 coertiest.click
 0.0.0.0 d13jhr4vol1304.cloudfront.net
 0.0.0.0 d19f0dp1dh77jq.cloudfront.net
 0.0.0.0 d1b0fk9ns6n0w9.cloudfront.net
@@ -29,13 +27,11 @@
 0.0.0.0 ebd.cda-hd.cc
 0.0.0.0 forwardrb.bid
 0.0.0.0 get-link.xyz
-0.0.0.0 herdethi.net
 0.0.0.0 hrtya.com
 0.0.0.0 ichlnk.com
 0.0.0.0 js.allporncomic.com
 0.0.0.0 kataprius.com
 0.0.0.0 kuvirixa.com
-0.0.0.0 moorsmerops.top
 0.0.0.0 n1g459ky7y.com
 0.0.0.0 okean-qoj.com
 0.0.0.0 p23hxejm1.com
