@@ -1,6 +1,6 @@
 # 🛡 AdAway hosts converter
 
-## 🕒 Updated: 2025-11-01 01:46:46
+## 🕒 Updated: 2025-12-01 02:04:26
 
 ## 🗒 Hosts lists
 

@@ -240,7 +240,6 @@
 0.0.0.0 bistr3.ru
 0.0.0.0 bistr4.ru
 0.0.0.0 bixmarketing.ru
-0.0.0.0 blablacar.d3.ru
 0.0.0.0 blackads.ru
 0.0.0.0 blendac.com
 0.0.0.0 blessdi.com
@@ -1714,6 +1713,7 @@
 0.0.0.0 usimonat.com
 0.0.0.0 utilient.com
 0.0.0.0 utilieur.com
+0.0.0.0 utorria.ru
 0.0.0.0 uwams.info
 0.0.0.0 v.tranzistor-harakteristiki.ru
 0.0.0.0 v2mljs.org
