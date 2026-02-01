@@ -1502,6 +1502,7 @@
 0.0.0.0 sport.hudaem.ru
 0.0.0.0 spytrack.tic.ru
 0.0.0.0 srv.mzcdn.com
+0.0.0.0 ssp.rutube.ru
 0.0.0.0 stableprofit.ru
 0.0.0.0 stableprofit4you.com
 0.0.0.0 standadv.com
