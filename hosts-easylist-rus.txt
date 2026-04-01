@@ -1405,7 +1405,6 @@
 0.0.0.0 rustizer.com
 0.0.0.0 rustoria-topnews.ru
 0.0.0.0 rustoria.ru
-0.0.0.0 rustorrents.rustorrents.net
 0.0.0.0 rutor.eu.org
 0.0.0.0 rutor.ml
 0.0.0.0 rutorad.ru
