@@ -1,6 +1,6 @@
 # 🛡 AdAway hosts converter
 
-## 🕒 Updated: 2026-07-01 04:06:56
+## 🕒 Updated: 2026-08-01 02:57:27
 
 ## 🗒 Hosts lists
 
@@ -12,5 +12,5 @@
 - [**<img src="https://raw.githubusercontent.com/gorhill/uBlock/master/src/img/ublock.svg" alt="" style="height: 1rem;" /> uBlock**](https://raw.githubusercontent.com/hectorm/hmirror/master/data/ublock/list.txt)
 
   - [hosts-ublock.txt](https://raw.githubusercontent.com/C010UR/adaway-hosts-converter/main/hosts-ublock.txt)<br>
-  - 46 hosts
+  - 42 hosts
 
