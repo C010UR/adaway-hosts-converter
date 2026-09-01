@@ -397,6 +397,7 @@
 0.0.0.0 crashes.autodanger.ru
 0.0.0.0 crateac.com
 0.0.0.0 crimpy-baboon.eu
+0.0.0.0 crmared.com
 0.0.0.0 crpoy.com
 0.0.0.0 cs-serva.net
 0.0.0.0 cshi.ru
@@ -498,6 +499,10 @@
 0.0.0.0 drlyy.com
 0.0.0.0 drontres.com
 0.0.0.0 drp.su
+0.0.0.0 dsazfk.com
+0.0.0.0 dteifi.com
+0.0.0.0 dtxelz.com
+0.0.0.0 dtyvtj.com
 0.0.0.0 dugtor-deer.pw
 0.0.0.0 dunta.ru
 0.0.0.0 dutrmedi.ru
@@ -537,7 +542,9 @@
 0.0.0.0 entercash.ru
 0.0.0.0 entimee.com
 0.0.0.0 epartner.ru
+0.0.0.0 epicgameshubham.com
 0.0.0.0 epoquels.com
+0.0.0.0 eprdl.online
 0.0.0.0 epsexda.ru
 0.0.0.0 er2fl22b1w.site
 0.0.0.0 erobestvideo.ru
@@ -555,6 +562,7 @@
 0.0.0.0 ex.infox.sg
 0.0.0.0 excalatom.com
 0.0.0.0 exchange.meta.ua
+0.0.0.0 exoclocks.com
 0.0.0.0 exonews.ru
 0.0.0.0 extronext.ru
 0.0.0.0 eznagi.ru
@@ -670,6 +678,7 @@
 0.0.0.0 go7media.ru
 0.0.0.0 goabd.ru
 0.0.0.0 gocdn.ru
+0.0.0.0 goddess-game.com
 0.0.0.0 gokliks.ru
 0.0.0.0 goldfishkapartners.com
 0.0.0.0 gomakemerich1.com
@@ -687,6 +696,7 @@
 0.0.0.0 gotoredr.com
 0.0.0.0 gov.hentaipix.ru
 0.0.0.0 govazd.am
+0.0.0.0 gptgirlfriend.online
 0.0.0.0 grainac.com
 0.0.0.0 grandmediatizer.com
 0.0.0.0 gravdee.com
@@ -793,6 +803,7 @@
 0.0.0.0 inctivee.com
 0.0.0.0 inferalton.com
 0.0.0.0 info.howto-news.info
+0.0.0.0 insta-cams.com
 0.0.0.0 installpack.net
 0.0.0.0 interieu.com
 0.0.0.0 internalinspector.com
@@ -1057,6 +1068,7 @@
 0.0.0.0 mesopo.ru
 0.0.0.0 message-site.net
 0.0.0.0 mestmaster.ru
+0.0.0.0 metricaops.com
 0.0.0.0 mezima.com
 0.0.0.0 mfatallp.com
 0.0.0.0 mgogo.ru
@@ -1106,6 +1118,7 @@
 0.0.0.0 muzomuz.ru
 0.0.0.0 my.megavstrecha.ru
 0.0.0.0 myads.ru
+0.0.0.0 myallz.com
 0.0.0.0 mydatingcash.com
 0.0.0.0 mynagor.com
 0.0.0.0 mytizer.com
@@ -1206,6 +1219,8 @@
 0.0.0.0 orgsales.ru
 0.0.0.0 otvetes.com
 0.0.0.0 ou2ie.ru
+0.0.0.0 ouraidream.com
+0.0.0.0 ourdream.ai
 0.0.0.0 outwitch.com
 0.0.0.0 ovap.in
 0.0.0.0 overridingnichts.in
@@ -1329,6 +1344,7 @@
 0.0.0.0 ravishstroke.in
 0.0.0.0 rayzest.com
 0.0.0.0 rb-net.com
+0.0.0.0 rb.infox.ru
 0.0.0.0 rb.infox.sg
 0.0.0.0 rb.rfn.ru
 0.0.0.0 rb.sport-express.ru
@@ -1355,6 +1371,7 @@
 0.0.0.0 recreativ.com
 0.0.0.0 recreativ.com.ua
 0.0.0.0 redavu.ru
+0.0.0.0 redirectthisclick.com
 0.0.0.0 redirrtosite.com
 0.0.0.0 ree56vxln.tech
 0.0.0.0 regisg.com
@@ -1396,6 +1413,7 @@
 0.0.0.0 rtdns.ru
 0.0.0.0 rtkrtb.com
 0.0.0.0 rtmain.com
+0.0.0.0 rttrk.com
 0.0.0.0 ruad.net
 0.0.0.0 ruigra.com
 0.0.0.0 rus-news.biz
@@ -1446,6 +1464,7 @@
 0.0.0.0 server2034.ru
 0.0.0.0 servidormensseger.hotbox.ru
 0.0.0.0 servized.com
+0.0.0.0 sexselector.com
 0.0.0.0 sexshop4ik.ru
 0.0.0.0 sexshop4ik.ru.swtest.ru
 0.0.0.0 sexvrusko.org
@@ -1463,6 +1482,7 @@
 0.0.0.0 shuffele.com
 0.0.0.0 sibiryak-soft.net
 0.0.0.0 sider.org.ru
+0.0.0.0 singleflirt.com
 0.0.0.0 sir.uz
 0.0.0.0 skeet.advetime.ru
 0.0.0.0 slartibartfast.ru
@@ -1500,6 +1520,7 @@
 0.0.0.0 specisez.com
 0.0.0.0 spitter.pauk.ru
 0.0.0.0 sport.hudaem.ru
+0.0.0.0 spxxxtube.com
 0.0.0.0 spytrack.tic.ru
 0.0.0.0 srv.mzcdn.com
 0.0.0.0 ssp.rutube.ru
@@ -1570,6 +1591,7 @@
 0.0.0.0 tg.mybb.ru
 0.0.0.0 tgearheads.com
 0.0.0.0 thegrap.ru
+0.0.0.0 thtrck.com
 0.0.0.0 thumpac.com
 0.0.0.0 ticlon.ru
 0.0.0.0 ticount.ru
@@ -1631,6 +1653,7 @@
 0.0.0.0 tozimoto.com
 0.0.0.0 tozipoto.com
 0.0.0.0 tozitoto.com
+0.0.0.0 trackinginwtd.pro
 0.0.0.0 tracklab.club
 0.0.0.0 traf-3rs.com
 0.0.0.0 traf-birga.net
@@ -1668,6 +1691,7 @@
 0.0.0.0 trtkp.ru
 0.0.0.0 truenty.com
 0.0.0.0 tryanka.ru
+0.0.0.0 trytracklink.com
 0.0.0.0 tsnsniper.com
 0.0.0.0 tsr.cdns.com.ua
 0.0.0.0 tsunam.ru
@@ -1704,6 +1728,7 @@
 0.0.0.0 unholyrsounds.in
 0.0.0.0 unikuni.com
 0.0.0.0 universal-lnk.net
+0.0.0.0 unsightly-reserve.com
 0.0.0.0 untily.com
 0.0.0.0 upro.me
 0.0.0.0 urlrtb.com
@@ -1765,6 +1790,7 @@
 0.0.0.0 visitscounter.ru
 0.0.0.0 vitos.freezfiles.ru
 0.0.0.0 viva-vanna.ru
+0.0.0.0 vividkink.com
 0.0.0.0 vk-traf.ru
 0.0.0.0 vkmoll.ru
 0.0.0.0 vkmonster.com
