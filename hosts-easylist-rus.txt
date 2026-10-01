@@ -499,10 +499,6 @@
 0.0.0.0 drlyy.com
 0.0.0.0 drontres.com
 0.0.0.0 drp.su
-0.0.0.0 dsazfk.com
-0.0.0.0 dteifi.com
-0.0.0.0 dtxelz.com
-0.0.0.0 dtyvtj.com
 0.0.0.0 dugtor-deer.pw
 0.0.0.0 dunta.ru
 0.0.0.0 dutrmedi.ru
@@ -880,6 +876,7 @@
 0.0.0.0 kolites.com
 0.0.0.0 kolitter.com
 0.0.0.0 koluty.com
+0.0.0.0 kontentpage.pro
 0.0.0.0 korenizsemi.net
 0.0.0.0 kotofotto.ru
 0.0.0.0 koviovius.com
@@ -985,12 +982,14 @@
 0.0.0.0 lotto770.com
 0.0.0.0 loveadvert.ru
 0.0.0.0 lstay.com
+0.0.0.0 lu-games.com
 0.0.0.0 lubov21.ru
 0.0.0.0 lucky-blogs.ru
 0.0.0.0 luckyade.ru
 0.0.0.0 luckysearcher.ru
 0.0.0.0 luisardo.com
 0.0.0.0 luredac.com
+0.0.0.0 lustgoddess.com
 0.0.0.0 lux-bn.com.ua
 0.0.0.0 luxcash.ru
 0.0.0.0 luxtraffic.ru
@@ -1520,6 +1519,7 @@
 0.0.0.0 specisez.com
 0.0.0.0 spitter.pauk.ru
 0.0.0.0 sport.hudaem.ru
+0.0.0.0 sportrg.ru
 0.0.0.0 spxxxtube.com
 0.0.0.0 spytrack.tic.ru
 0.0.0.0 srv.mzcdn.com
